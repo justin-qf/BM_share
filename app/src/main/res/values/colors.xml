@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#ad2753</color>
+    <color name="colorsecond">#ed2c66</color>
+    <color name="colorthird">#faa81e</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bmColour">#ad2753</color>
+    <color name="colorPrimaryLight">#C82438</color>
+    <color name="colorPrimaryDarkLight">#5f72bd</color>
+    <color name="colorThird">#709C3C</color>
+    <color name="Graycolor">#b5b5b5</color>
+    <color name="colorThirdSecond">#ACBB78</color>
+    <color name="colorThirdLight">#def4e9</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkGray">#7D7D7D</color>
+    <color name="colorGray">#f3f3f3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteTransperent">#B7FFFFFF</color>
+    <color name="Transperent">#1f1f1d</color>
+    <color name="colorStart">#5f72bd</color>
+    <color name="colorEnd">#9b23ea</color>
+    <color name="imageBackgroundColor">#f3f3f5</color>
+    <color name="colorBlackTrans">#19000000</color>
+    <color name="colorBlackTransSecondary">#45000000</color>
+    <!--gradient colors-->
+    <color name="gradientLightOrange">#EEF8FC</color>
+    <color name="gradientLightYellow2">#EEE3CB</color>
+    <!--Green shades-->
+    <color name="toolbarColor">#f1f1f1</color>
+    <!--orange  color shades-->
+    <color name="colorOragneDark">#ea5459</color>
+    <color name="colorOragneLight">#f7ba2c</color>
+    <!--green color shades-->
+    <color name="colorGreenDark">#70960c</color>
+    <color name="colorGreenLight">#fafa00</color>
+    <!--blue color shades-->
+    <color name="colorBlueLight">#60efff</color>
+    <color name="colorBlueDark">#0061ff</color>
+    <color name="colorBlueDarkMark">#A6B1CFFF</color>
+    <!--dark blue color shades-->
+    <color name="colorSecondBlueLight">#26D0CE</color>
+    <color name="colorSecondBlueDark">#1A2980</color>
+    <color name="colorSecondBlueDarkTransperent">#4B70960C</color>
+    <!--greee blue color shades-->
+    <color name="colorGreensLight">#dce35b</color>
+    <color name="colorGreensDark">#45b649</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorRedUnAns">#A4FFCC97</color>
+    <color name="colorRedWron">#9FFF7A7A</color>
+
+    <style name="progressStyles" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <color name="colorProgressBackground">#00000000</color>
+    <color name="simmerColor">#CDCDCD</color>
+    <color name="colorPrimaryTransperent">#40017DFF</color>
+    <color name="layoutBackgroundLightGray">#f6f6f6</color>
+    <color name="gradientOrange1">#FF416C</color>
+    <color name="gradientViolet1">#8A52E9</color>
+    <color name="gradientLightYellow1">#FFA72F</color>
+    <color name="gradientLightYellow3">#FFC92B</color>
+    <color name="gradientLightOrange2">#FF7765</color>
+    <color name="gradientLightBlue">#376DF6</color>
+    <color name="gradientLightGreen">#21E8AC</color>
+    <color name="lightOrenage">#FFA69E</color>
+    <color name="DarkOrenage">#861657</color>
+    <color name="subjectColorLayerFirst">#e62f43</color>
+    <color name="colorForIntroSlideTitle">#202268</color>
+    <color name="colorPTrans">#5B202268</color>
+    <color name="colorBlueee">#017bae</color>
+</resources>

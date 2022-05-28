@@ -1,0 +1,96 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="textivew" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/gontserrat_regular</item>
+    </style>
+
+    <style name="materialTheame" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColorHint">@color/colorGray</item>
+        <!--        <item name="android:windowTranslucentStatus">true</item>
+                <item name="android:windowTranslucentNavigation">false</item>-->
+    </style>
+
+    <style name="ToolbarStyle">
+        <item name="android:layout_height">@dimen/_80sdp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:title" />
+        <item name="contentInsetStart">0dp</item>
+        <item name="contentInsetEnd">0dp</item>
+
+        <item name="contentInsetStartWithNavigation">0dp</item>
+    </style>
+
+
+    <style name="chipAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/gontserrat_regular</item>
+
+    </style>
+
+
+    <style name="itemTextAppearance">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="fontFamily">@font/gontserrat_regular</item>
+    </style>
+
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorPrimary</item>
+        <item name="boxCornerRadiusTopStart">@dimen/_20sdp</item>
+        <item name="hintTextColor">@color/Graycolor</item>
+        <item name="android:layout_marginTop">@dimen/_10sdp</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/_20sdp</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/_20sdp</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/_20sdp</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="boxStrokeWidthFocused">0.5dp</item>
+        <item name="boxStrokeWidth">0.4dp</item>
+        <item name="boxBackgroundMode">outline</item>
+        <item name="helperTextEnabled">true</item>
+        <item name="helperTextTextColor">@color/colorRed</item>
+        <item name="helperTextTextAppearance">@style/helperTextAppearance</item>
+    </style>
+
+
+    <style name="helperTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/colorRed</item>
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/gontserrat_regular</item>
+        <item name="android:layout_marginTop">@dimen/_3sdp</item>
+        <item name="helperTextTextColor">@color/colorRed</item>
+    </style>
+
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+        <item name="android:windowIsFloating">false</item>
+        <item name="colorAccent">@color/colorPrimaryLight</item>
+        <item name="android:windowBackground">@color/colorPrimaryTransperent</item>
+        <item name="android:layout_gravity">bottom</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:textColor">#fff</item>
+
+        <item name="android:textAlignment">center</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:fontFamily">@font/gontserrat_medium</item>
+    </style>
+
+</resources>

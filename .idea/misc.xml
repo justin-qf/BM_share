@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable-v24/gradient_bg_tab.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2495" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/avatar_11.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/avatar_12.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/bm_logo.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/cursordesign.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/gradient_layout_one.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_bin.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_camera_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_camera_intent.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_close.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_intent_gallery.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_intet_view.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2495" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_photo_camera.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/ic_slideshow_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/rounded_corner_bg.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/rounded_shap.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/drawable/side_nav_bar.xml" value="0.1725" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout-w1240dp/content_main_activitysss.xml" value="0.215625" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout-w1240dp/item_common_list_layout.xml" value="0.215625" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout-w600dp/content_main_activitysss.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_contact_list.xml" value="0.22445489525438223" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_login.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_main.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_multiple_sharing.xml" value="0.22103463018383926" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_splash.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/activity_testing.xml" value="0.22445489525438223" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/ass.xml" value="0.22445489525438223" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/content_main_activitysss.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/dialog_image_view_layout.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_contact.xml" value="0.4683318465655665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_picker.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_recent_list.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_reflow.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_settings.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_slideshow.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/fragment_transform.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/item_common_list_layout.xml" value="0.22445489525438223" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/item_contact_list.xml" value="0.33" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/item_recent_list_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/layout_call_log.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/layout_changes.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/nav_header_main_activitysss.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/progress_bar_layout.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/row.xml" value="0.22445489525438223" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/testing_activity.xml" value="0.22161249472351202" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/layout/whatsappservice.xml" value="0.22103463018383926" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/menu/bottom_navigation.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/menu/navigation_drawer.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/menu/overflow.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ShareFiles/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2495" />
+        <entry key="..\:/Users/Hp/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/shutdown_dialog.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.2734375" />
+        <entry key="..\:/Users/Hp/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_2.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

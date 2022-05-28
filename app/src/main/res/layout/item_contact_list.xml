@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:id="@+id/main_contact_layout"
+
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:paddingTop="@dimen/_5sdp"
+            android:id="@+id/contact_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="@dimen/_14sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:paddingBottom="@dimen/_5sdp"
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="@dimen/_10sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/contact_name" />
+
+        <!--        <View-->
+        <!--            android:id="@+id/view"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="@dimen/_1sdp"-->
+        <!--            android:background="@color/black"-->
+        <!--            app:layout_constraintTop_toBottomOf="@+id/ContactNumberTxt" />-->
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
